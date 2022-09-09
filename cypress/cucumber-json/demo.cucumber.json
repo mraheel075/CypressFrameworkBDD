@@ -1,0 +1,33 @@
+[
+  {
+    "description": "Demo Test Cases",
+    "keyword": "Feature",
+    "name": "Demo Tests",
+    "line": 1,
+    "id": "demo-tests",
+    "tags": [],
+    "uri": "demo.feature",
+    "elements": [
+      {
+        "id": "demo-tests;demo-testing",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Demo testing",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "Open the \"www.google.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 2392000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
